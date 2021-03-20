@@ -1,0 +1,16 @@
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.csprojAssemblyReference.cache
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.AssemblyInfoInputs.cache
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.AssemblyInfo.cs
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.csproj.CoreCompileInputs.cache
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.exe
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.deps.json
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.runtimeconfig.json
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.runtimeconfig.dev.json
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.dll
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\ref\Tut1.dll
+C:\Users\maxgo\source\repos\Tut1\Tut1\bin\Debug\net5.0\Tut1.pdb
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.dll
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\ref\Tut1.dll
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.pdb
+C:\Users\maxgo\source\repos\Tut1\Tut1\obj\Debug\net5.0\Tut1.genruntimeconfig.cache
